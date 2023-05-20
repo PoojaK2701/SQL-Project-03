@@ -1,4 +1,4 @@
-**Questions around SQL statements fundamentals** -
+`Questions around SQL statements fundamentals` -
 Q1- What we need to know is the names of these people, their first and last name, so we can address them.
 
 SELECT first_name, last_name, email FROM customer;
